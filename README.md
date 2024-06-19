@@ -1,7 +1,7 @@
-# Olá! Eu sou o Fabito02 👋
+# 
 
 ### 👨‍💻 Sobre mim
-- 👋 Hi, I’m @Fabito02
+- 👋 I’m @Fabito02
 - 🎓 I’m currently learning JavaScript and Kotlin 
 
 ### 🐍 Snake Game
@@ -14,4 +14,3 @@
 ### 📫 How to find me
 - [Telegram](https://t.me/BinnaryBard)
 - [Email](mailto:fabianojuniorlimaba2@gmail.com)
-- 
