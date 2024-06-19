@@ -1,19 +1,17 @@
-## Hi there 👋
+# Olá! Eu sou o Fabito02 👋
 
+### 👨‍💻 Sobre mim
 - 👋 Hi, I’m @Fabito02
-- 🌱 I’m currently learning JS and Kotlin 
-<div>
-  <a href="https://github.com/Fabito02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabito02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabito02&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-<div>
+- 🎓 I’m currently learning JavaScript and Kotlin 
 
+### 🐍 Snake Game
+![Snake animation](https://github.com/Fabito02/Fabito02/blob/output/github-contribution-grid-snake.svg)
 
- ![Snake animation](https://github.com/Sasukezin678/Sasukezin678/blob/output/github-contribution-grid-snake.svg)
-</div>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### 📫 How to find me
+- [Telegram](https://t.me/BinnaryBard)
+- [Email](mailto:fabianojuniorlimaba2@gmail.com)
+- 
