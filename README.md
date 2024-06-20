@@ -1,11 +1,10 @@
 # Meu Perfil
 
+![Snake animation](https://github.com/Fabito02/Fabito02/blob/output/github-contribution-grid-snake.svg)
+
 ### 👨‍💻 About me
 - 👋 I’m @Fabito02
 - 🎓 I’m currently learning JavaScript and Kotlin 
-
-### 🐍 Snake Game
-![Snake animation](https://github.com/Fabito02/Fabito02/blob/output/github-contribution-grid-snake.svg)
 
 ### 🛠️ Skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
