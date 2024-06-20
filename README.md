@@ -1,6 +1,6 @@
 # 
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 About me
 - 👋 I’m @Fabito02
 - 🎓 I’m currently learning JavaScript and Kotlin 
 
