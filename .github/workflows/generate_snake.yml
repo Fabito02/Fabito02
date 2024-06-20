@@ -1,13 +1,21 @@
 name: Generate Snake
 
+# Define as permissões necessárias para o workflow
+permissions:
+  contents: write
+
+# Define quando o workflow será acionado
 on:
+  # Executa a cada 6 horas
   schedule:
-    - cron: "0 0 * * *"  # Executa diariamente à meia-noite UTC
+    - cron: "0 */6 * * *"
+  # Permite acionamento manual do workflow
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
@@ -16,7 +24,22 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Fabito02
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=%23bfd6f6,%238dbdff,%2364a1f4,%234b91f1,%233c7dd9
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Show status
+        run: git status
+
+      - name: Commit and push if changes
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add .
+          git commit -m "Add contribution snake animation"
+          git push
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
