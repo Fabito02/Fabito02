@@ -2,7 +2,8 @@
 
 ### 👨‍💻 About me
 - 👋 I’m @Fabito02
-- 🎓 I’m currently learning JavaScript and Kotlin 
+- 🎓 I’m currently learning JavaScript and Kotlin
+- 🇧🇷 Brazilian 
 
 ### 🛠️ Skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
