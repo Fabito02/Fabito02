@@ -1,16 +1,9 @@
 name: Generate Snake
 
-# Define as permissões necessárias para o workflow
-permissions:
-  contents: write
-
-# Define quando o workflow será acionado
 on:
-  # Executa a cada 6 horas
   schedule:
-    - cron: "0 */6 * * *"
-  # Permite acionamento manual do workflow
-  workflow_dispatch:
+    - cron: "0 */6 * * *"  # Executa a cada 6 horas
+  workflow_dispatch:  # Permite acionamento manual do workflow
 
 jobs:
   build:
