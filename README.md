@@ -1,6 +1,4 @@
-# Meu Perfil
-
-![Snake animation](https://github.com/Fabito02/Fabito02/blob/output/github-contribution-grid-snake.svg)
+# My profile 
 
 ### 👨‍💻 About me
 - 👋 I’m @Fabito02
