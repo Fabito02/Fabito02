@@ -4,7 +4,7 @@
 - 👋 I’m @Fabito02
 - 🎓 I’m currently learning JavaScript and Kotlin
 - 🇧🇷 Brazilian 
-- 💼 My portfolio: 
+- 💼 My portfolio: [Fabiano Júnior](https://fabito02.github.io/Fabiano_Junior_L_B/)
 
 ### 🛠️ Skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
