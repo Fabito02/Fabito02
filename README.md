@@ -4,7 +4,7 @@
 - 👋 Hi, I'm @Fabito02, a young technology enthusiast always eager to learn more.
 - 🎓 Currently, I'm learning and improving my skills in JavaScript.
 - 🇧🇷 Native Brazilian!
-- 💼 Check out my portfolio: [Fabiano Júnior](https://fabito02.github.io/Fabiano_Junior_L_B/)
+- 💼 Check out my [portifolio](https://fabito02.github.io/Fabiano_Junior_L_B/)
 
 ### 🛠️ Skills
 I'm comfortable with the following technologies:
