@@ -1,7 +1,7 @@
 # My Profile 
 
 ### 👨‍💻 About Me
-- 👋 Hi, I'm @Fabito02, a young technology enthusiast always eager to learn more.
+- 👋 Hi, I'm Fabiano Júnior Lima Barbosa, a young technology enthusiast always eager to learn more.
 - 🎓 Currently, I'm learning and improving my skills in JavaScript.
 - 🇧🇷 Native Brazilian!
 - 💼 Check out my [portifolio](https://fabito02.github.io/Fabiano_Junior_L_B/)
