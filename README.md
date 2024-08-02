@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 - 👋 Hi, I'm Fabiano Júnior Lima Barbosa, a young technology enthusiast always eager to learn more.
-- 🎓 Currently, I'm learning and improving my skills in JavaScript.
+- 🎓 Currently, I'm learning and improving my skills in JavaScript and PHP.
 - 🇧🇷 Native Brazilian!
 - 💼 Check out my [portifolio](https://fabito02.github.io/Fabiano_Junior_L_B/)
 
