@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 - 👋 Hi, I'm Fabiano Júnior Lima Barbosa, a young technology enthusiast always eager to learn more.
-- 🎓 Currently, I'm learning and improving my skills in JavaScript and PHP.
+- 🎓 I am currently learning and improving my web programming skills.
 - 🇧🇷 Native Brazilian!
 - 💼 Check out my [portifolio](https://fabito02.github.io/Fabiano_Junior_L_B/)
 
@@ -15,12 +15,15 @@ I'm comfortable with the following technologies:
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TSX-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
 ### 📚 Learning Journey
 I'm constantly learning and expanding my skills. Currently, I'm focused on:
-- 🎨 Exploring design and responsiveness possibilities with CSS
-- 💻 Creating interactive web interfaces with JavaScript
+- 🎨 Exploring design and responsiveness possibilities
+- 💻 Creating interactive web interfaces
 
 ### 📫 How to Find Me
 Let's connect! You can find me on:
