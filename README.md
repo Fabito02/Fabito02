@@ -1,4 +1,4 @@
-# My Profile 
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!;How+are+you?)](https://git.io/typing-svg)
 
 ### 👨‍💻 About Me
 - 👋 Hi, I'm Fabiano Júnior Lima Barbosa, a young technology enthusiast always eager to learn more.
