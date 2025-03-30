@@ -27,9 +27,10 @@ I'm constantly learning and expanding my skills. Currently, I'm focused on:
 - 🎨 Exploring design and responsiveness possibilities
 - 💻 Creating interactive web interfaces
 
-### 📊 GitHub Stats
+### 📊 Stats
+
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D32199%26project%3D%26in=0)](https://codetime.dev)
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabito02&layout=compact&langs_count=8&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api?username=Fabito02&show_icons=true&theme=radical" />
 </div>
 
