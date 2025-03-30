@@ -27,6 +27,12 @@ I'm constantly learning and expanding my skills. Currently, I'm focused on:
 - 🎨 Exploring design and responsiveness possibilities
 - 💻 Creating interactive web interfaces
 
+### 📊 GitHub Stats
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabito02&layout=compact&langs_count=8&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fabito02&show_icons=true&theme=radical" />
+</div>
+
 ### 📫 How to Find Me
 Let's connect! You can find me on:
 - [Telegram](https://t.me/BinnaryBard)
