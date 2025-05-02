@@ -34,10 +34,8 @@ I'm constantly learning and expanding my skills. Currently, I'm focused on:
 
 ### 📊 Stats
 
-[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D32199%26project%3D%26in=0)](https://codetime.dev)
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Fabito02&show_icons=true&theme=radical" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabito02&layout=compact&theme=tokyonight)
+![Fabiano's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabito02&show_icons=true&theme=tokyonight&count_private=true&hide=prs)
 
 ### 📫 How to Find Me
 Let's connect! You can find me on:
