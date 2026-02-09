@@ -1,36 +1,41 @@
-name: Metrics
+name: Generate Datas
+
 on:
-  schedule: [{cron: "0 */12 * * *"}]
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-  push: {branches: ["main"]}
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
 
 jobs:
-  github-metrics:
+  build:
+    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      - name: Create dist directory
-        run: mkdir -p dist
+      - uses: actions/checkout@v3
 
-      - name: General metrics
+      - name: GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
-          section: base
           filename: dist/github-metrics.svg
+          config_timezone: America/Sao_Paulo
 
-      - name: generate-snake-game-from-github-contribution-grid
+      - name: Snake Animation
         uses: Platane/snk@v3
+        id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Fabito02
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push metrics
+      - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
