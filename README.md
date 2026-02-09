@@ -33,11 +33,18 @@ Desenvolvedor Full Stack com experiência em sistemas escaláveis e performance.
 
 ---
 
-### 📊 Github Performance
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fabito02&show_icons=true&theme=dracula" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabito02&layout=compact&theme=dracula" width="400" />
-</p>
+### 📊 Github Stats
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabito02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabito02&layout=compact&theme=tokyonight&hide=html,css" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabito02&theme=tokyonight" />
+
+</div>
 
 ---
 
