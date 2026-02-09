@@ -36,13 +36,20 @@ Desenvolvedor Full Stack com experiência em sistemas escaláveis e performance.
 ### 📊 Github Stats
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabito02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabito02&layout=compact&theme=tokyonight&hide=html,css" />
+  <a href="https://github.com/Fabito02/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fabito02" />
+  </a>
+  <a href="https://github.com/Fabito02/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabito02&layout=compact&langs_count=8&card_width=320" />
+  </a>
 
   <br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabito02&theme=tokyonight" />
+
+  <br/>
+
+  ![Snake animation](https://github.com/Fabito02/Fabito02/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
