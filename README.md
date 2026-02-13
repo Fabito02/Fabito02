@@ -45,4 +45,4 @@ Desenvolvedor Full Stack com experiência em sistemas escaláveis e performance.
 ---
 
 ### 📫 Conecte-se comigo
-[Portfólio](https://fabito02.github.io/Fabiano_Junior_L_B/) • [LinkedIn](https://www.linkedin.com/in/fabiano-j%C3%BAnior-lima-barbosa-688577315) • [Telegram](https://t.me/BinnaryBard) • [Email](mailto:fabianojuniorlimaba2@gmail.com)
+[Portfólio](https://fabito02.github.io/portifolio/) • [LinkedIn](https://www.linkedin.com/in/fabiano-j%C3%BAnior-lima-barbosa-688577315) • [Telegram](https://t.me/BinnaryBard) • [Email](mailto:fabianojuniorlimaba2@gmail.com)
