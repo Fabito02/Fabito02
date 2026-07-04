@@ -46,7 +46,7 @@ Desenvolvedor Full Stack com experiência em sistemas escaláveis e performance.
     <img src="https://github-stats-extended.vercel.app/api?username=Fabito02&show_icons=true" /> <!-- light mode -->
   </picture
     
-  <br/><br/>
+  <br/>
   
   <picture>
     <source
