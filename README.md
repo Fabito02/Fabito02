@@ -57,8 +57,14 @@ Desenvolvedor Full Stack com experiência em sistemas escaláveis e performance.
   </picture>
   
   <br/>
-
-  <img src="https://raw.githubusercontent.com/Fabito02/Fabito02/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+  <picture>
+    <source
+        srcset="https://raw.githubusercontent.com/Fabito02/Fabito02/output/github-contribution-grid-snake-dark.svg"
+        media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://raw.githubusercontent.com/Fabito02/Fabito02/output/github-contribution-grid-snake.svg" /> <!-- light mode -->
+  </picture>
 </div>
 
 
