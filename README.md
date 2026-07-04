@@ -38,12 +38,29 @@ Desenvolvedor Full Stack com experiência em sistemas escaláveis e performance.
 
 ### 📊 Github Stats
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Fabito02/Fabito02/output/github-metrics.svg" alt="Metrics" />
-
+  <picture>
+    <source
+        srcset="https://github-stats-extended.vercel.app/api?username=Fabito02&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api?username=Fabito02&show_icons=true" /> <!-- light mode -->
+  </picture
+    
+  <br/><br/>
+  
+  <picture>
+    <source
+        srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Fabito02&langs_count=5&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fabito02&langs_count=5&show_icons=true" /> <!-- light mode -->
+  </picture>
+  
   <br/>
 
   <img src="https://raw.githubusercontent.com/Fabito02/Fabito02/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
+
 
 ---
 
